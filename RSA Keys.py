@@ -1,4 +1,3 @@
-
 """
 RSA Key Generator
 By Callum Clegg
@@ -77,12 +76,3 @@ private = d
 #Prints out generated keys.
 print("public: ({0}, {1})".format(universal, public))
 print("private: ({0}, {1})".format(universal, private))
-
-
-
-
-
-
-            
-        
-
